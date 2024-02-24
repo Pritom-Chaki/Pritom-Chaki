@@ -30,7 +30,7 @@
 
 - 👔 I’m currently working on [On Virtual World](https://www.onvirtualworld.com).
 - 🔭 I’m currently learning more about Flutter .
-- 🌱 I'm currently building on some Flutter packages.
+- 🌱 I'm currently building some Flutter packages.
 - 🛠️ Also I have experience in PHP Laravel and Node JS
 - 👀 I’m looking to collaborate on [Flutter Package](https://pub.dev/publishers/pritom.me/packages).
 - 💬 Ask me about Flutter or any tech-related stuff.
