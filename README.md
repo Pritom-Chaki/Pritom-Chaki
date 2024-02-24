@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pritom-Chaki&label=Views&color=blue&style=plastic" alt="pritom" /> </p>
 
 <a href="https://twitter.com/PritomChaki">
-  <img align="left" alt="Pritom's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Pritom's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?theme=light" />
 </a>
 <a href="https://linkedin.com/in/pritom-chaki-cse">
   <img align="left" alt="Pritom's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -28,9 +28,9 @@
 <br/>
 
 
-- 🔭 I’m currently working on [On Virtual World](https://www.onvirtualworld.com).
-- 🌱 I’m currently learning more about Flutter .
-- 👔 I’m currently working on some Flutter Packages.
+- 👔 I’m currently working on [On Virtual World](https://www.onvirtualworld.com).
+- 🔭 I’m currently learning more about Flutter .
+- 🌱 I'm currently building on some Flutter packages.
 - 🛠️ Also I have experience in PHP Laravel and Node JS
 - 👀 I’m looking to collaborate on [Flutter Package](https://pub.dev/publishers/pritom.me/packages).
 - 💬 Ask me about Flutter or any tech-related stuff.
@@ -38,10 +38,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 3 hours watching movie/series every day.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/) 
+[![Twitter: pritom](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/PritomChaki)
+[![Linkedin: pritom](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://linkedin.com/in/pritom-chaki-cse)
+[![GitHub pritom](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Pritom-Chaki)
+[![website](https://img.shields.io/badge/PortfolioWebsite-pritom.me-2648ff?style=flat-square&logo=google-chrome)](https://pritom.me/) 
 
 
 **Languages and Tools:**  
