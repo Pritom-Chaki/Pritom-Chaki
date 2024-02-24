@@ -62,6 +62,7 @@
 <a href="https://github.com/Pritom-Chaki">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pritom-Chaki&show_icons=true&theme=light&line_height=27" alt="Pritom github stats"/>
 </a>
+  <div align="center">
 <a href="https://github.com/Pritom-Chaki/pritom_portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pritom-Chaki&repo=pritom_portfolio&theme=light" />
 
