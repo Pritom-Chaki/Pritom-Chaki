@@ -39,8 +39,8 @@
 - ⚡ Fun fact: I spend almost 3 hours watching movie/series every day.
 
 [![Twitter: pritom](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/PritomChaki)
-[![Linkedin: pritom](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://linkedin.com/in/pritom-chaki-cse)
-[![GitHub pritom](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Pritom-Chaki)
+[![Linkedin: pritom](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritom-chaki-cse/)](https://linkedin.com/in/pritom-chaki-cse)
+[![GitHub pritom](https://img.shields.io/github/followers/Pritom-Chaki?label=follow&style=social)](https://github.com/Pritom-Chaki)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pritom.me-2648ff?style=flat-square&logo=google-chrome)](https://pritom.me/) 
 
 
